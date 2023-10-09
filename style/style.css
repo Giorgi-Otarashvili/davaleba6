@@ -108,7 +108,7 @@ flex-wrap: wrap;
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    /* gap: 33px; */
+    gap: 33px;
 }
 .card_p {
     color: #133B3A;
