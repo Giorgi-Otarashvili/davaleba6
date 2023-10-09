@@ -125,11 +125,11 @@ line-height: normal;
 footer {
     display: inline-flex;
 padding: 75px 98px;
-/* justify-content: center; */
+justify-content: center;
 align-items: flex-start;
-gap: 663px;
+gap: 739px;  /* ცოტათი გავზარდე იმიტორო სიგანე პატარა გამოდიოდა ფუტერის  */
 background: #758BFD;
-width: 1440px;
+
 }
 .footer_h1 {
     color: #00CAD7;
