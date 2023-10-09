@@ -118,3 +118,60 @@ font-style: normal;
 font-weight: 400;
 line-height: normal;
 }
+
+
+/* footer start  */
+
+footer {
+    display: inline-flex;
+padding: 75px 98px;
+/* justify-content: center; */
+align-items: flex-start;
+gap: 663px;
+background: #758BFD;
+width: 1440px;
+}
+.footer_h1 {
+    color: #00CAD7;
+font-family: Century Gothic;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 17px; /* 85% */
+letter-spacing: 0.2px;
+margin-bottom: 21px;
+}
+.mail {color: #FFF;
+    font-family: Century Gothic;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 17px; /* 130.769% */
+    letter-spacing: 0.2px;
+}
+.fa-brands {
+color: #FFF;
+}
+/* .footer_section {width: calc(160 / 1440 * 100%);} */
+.footer_icons {
+    display: flex;
+    justify-content: space-between;
+margin-top: 12px; 
+}
+    .payment_cards {display: flex;
+        justify-content: space-between;
+    }
+    .pay {
+        border-radius: 5px;
+background: #FFF;
+    }
+    .margininline11 {
+        margin-inline: 11px;
+    }
+    .marginright11 {margin-right: 11px;}
+
+
+
+
+
+
